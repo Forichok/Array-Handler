@@ -1,0 +1,23 @@
+Load a base.txt
+Rand b 10 1 10
+Print b
+Print a
+Intersect b a
+Print b
+Xor a b
+Print b
+Print a
+Rand b 6 9 10
+Print B
+Sort b+
+Print B
+Sort b-
+Print b
+Permute b
+Print b
+Stat b
+Free B
+Print c
+Rand b 10 0 100
+Print b
+Save b out.txt
